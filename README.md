@@ -49,5 +49,5 @@ The goal was to validate login functionality, input field constraints, and error
 
 ---
 
-## 📂 Repository Structure  
+
 
